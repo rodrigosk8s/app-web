@@ -11,14 +11,8 @@ class Home extends React.Component{
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>Home.js</code> and save to reload.
+          Template inicio de proyecto.
         </p>
-        <a
-          className="App-link"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-        </a>
       </header>
     </div>
         
