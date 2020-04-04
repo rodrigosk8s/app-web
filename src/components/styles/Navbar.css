@@ -21,10 +21,12 @@
     width: 30px;
   }
   .menu{
-    text-align: left;
+    display: inline-block !important;
   }
-
-  a{
-    color: red;
-    
+  .menu a{
+    text-decoration: none;
+    color: white;
+    display: inline;
+    margin: 10px;
+    text-align: left;    
   }
