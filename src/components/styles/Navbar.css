@@ -21,5 +21,13 @@
     width: 30px;
   }
   .menu{
-    text-align: left;
+    
+  }
+  .menu a{
+    text-decoration: none;
+    color: white;
+    display: inline;
+    margin: 10px;
+    align-content: flex-end;
+    
   }

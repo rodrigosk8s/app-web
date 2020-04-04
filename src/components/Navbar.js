@@ -15,10 +15,17 @@ class Navbar extends React.Component {
             <span className="font-weight-bold">Web</span>
           </Link>
         </div>
-        
-        <Link  to="/">
+        <div className="menu">
+          <Link  to="/">
             <span className="font-weight-bold ">Inicio</span>
           </Link>
+          <Link  to="/">
+            <span className="font-weight-bold ">Team</span>
+          </Link>
+          <Link  to="/">
+            <span className="font-weight-bold ">Contactos</span>
+          </Link>
+        </div>        
       </div>
     );
   }
