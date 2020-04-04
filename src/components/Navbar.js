@@ -18,6 +18,7 @@ class Navbar extends React.Component {
         
         <Link  to="/">
             <span className="font-weight-bold ">Inicio</span>
+            <span>inici 2</span>
           </Link>
       </div>
     );
