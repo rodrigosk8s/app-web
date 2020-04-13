@@ -10,6 +10,7 @@ class Home extends React.Component{
             <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+            <p>Oliver Sykes</p>
         <p>
         <a href="https://imgur.com/G0guCFl"><img src="https://i.imgur.com/G0guCFl.jpg" title="source: imgur.com" /></a>
         </p>
