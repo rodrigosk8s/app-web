@@ -11,8 +11,7 @@ class Home extends React.Component{
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Template inicio de proyecto
-          /* REpo SSh */
+        <a href="https://imgur.com/G0guCFl"><img src="https://i.imgur.com/G0guCFl.jpg" title="source: imgur.com" /></a>
         </p>
       </header>
     </div>
