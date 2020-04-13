@@ -11,12 +11,12 @@ class Navbar extends React.Component {
         <div className="Logo">
           <Link className="Navbar__brand" to="/">
             <img className="Navbar__brand-logo" src={logo} alt="Logo" />
-            <span className="font-weight-light">App</span>
-            <span className="font-weight-bold">Web</span>
+            <span className="font-weight-light">Sempi</span>
+            <span className="font-weight-bold">Ternal</span>
           </Link>
         </div>
         <div className="menu">
-          <Link to="/">
+           {/* <Link to="/">
             <span className="font-weight-bold ">Inicio</span>
           </Link>
           <Link  to="/team">
@@ -24,7 +24,7 @@ class Navbar extends React.Component {
           </Link>
           <Link  to="/contactos">
             <span className="font-weight-bold ">Contactos</span>
-          </Link>
+          </Link> */}
         </div>        
       </div>
     );
